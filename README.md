@@ -4,7 +4,7 @@
 
 # Code
 
-Simple project representing the Iterator design pattern.
+Simple project representing the Iterator design pattern. For this one, i made three classes representing a functioning restaurant. 
 
 # Definition
 
